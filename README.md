@@ -1,23 +1,16 @@
-<!-- Banner / Logo -->
-<p align="center">
-  <img src="logo.png" alt="AlgoVista Logo" width="180"/>
-</p>
-
----
-
 # 🚀 AlgoVista
 
 **Unveiling Sorting and Pathfinding through Visuals**
 
 <p align="center">
-  <a href="https://tarakkatoch.github.io/AlgoVista/"><img src="https://img.shields.io/badge/TRY%20IT%20NOW-Live%20Demo-orange?style=for-the-badge" alt="Live Demo"></a>
+  <img src="logo.png" alt="AlgoVista Logo" width="180"/>
 </p>
 
 <p align="center">
-  <img src="path-2.gif" alt="AlgoVista Demo" width="100"/>
+  <a href="https://tarakkatoch.github.io/AlgoVista/"><img src="https://img.shields.io/badge/TRY%20IT%20NOW-Live%20Demo-orange?style=for-the-badge" alt="Live Demo"></a> 
 </p>
 
-> **AlgoVista** is an interactive web application that visualizes various sorting and pathfinding algorithms. Built for learners and enthusiasts, this project helps users understand complex algorithms through intuitive visual representations.
+**AlgoVista** is an interactive web application that visualizes various sorting and pathfinding algorithms. Built for learners and enthusiasts, this project helps users understand complex algorithms through intuitive visual representations.
 
 ---
 
