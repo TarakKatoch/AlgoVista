@@ -22,7 +22,10 @@
     -   ⚡ Quick Sort
     -   ✍️ Insertion Sort
     -   🎯 Selection Sort
-    -   🚀 More coming soon!
+-   🔢 **Pathfinding Algorithms Visualization:**
+    -   🧭 Dijkstra’s
+    -   📶 BFS
+    -   🧗‍♂️ DFS
 -   🕹️ **Interactive Interface:** Real-time visualization with customizable speed controls and array sizes.
 -   🌐 **Cross-platform Compatibility:** Supports modern browsers for a seamless experience.
 
@@ -30,25 +33,31 @@
 
 ## 🛠️ Technologies Used
 
--   💻 **Frontend:** HTML, CSS, JavaScript
--   🧠 **Backend & Algorithms:** Java (in progress), JavaScript
--   ☁️ **Cloud Services:** Deployment pending
--   🔗 **Version Control:** Git & GitHub for project management
+Frontend Technologies:
+•  HTML5 - Structure and markup
+•  CSS3 - Styling and animations
+•  Vanilla JavaScript (ES6+) - Core functionality and algorithm implementations
+•  Canvas API - For drawing and rendering visualizations
 
----
+Libraries & Frameworks:
+•  Bootstrap 4.0.0 - UI components and responsive design
+•  Paper.js 0.12.2 - 2D vector graphics library for pathfinding visualizations
+•  jQuery 3.2.1 - DOM manipulation and event handling
+•  Popper.js 1.12.9 - Tooltip and popover positioning
 
-## 🌱 Future Development
+External Resources:
+•  Font Awesome 4.7.0 - Icons and UI elements
+•  Google Fonts (Roboto) - Typography
+•  CDN Libraries - All external libraries loaded via CDN
 
--   🗺️ **Pathfinding Algorithms Visualization:**
-    -   Coming soon! Visualize popular pathfinding algorithms like A\*, Dijkstra, and more.
--   📝 **Custom Inputs:**
-    -   Users can add their own inputs and visualize them.
--   🧑‍💻 **Custom Algorithms:**
-    -   Researchers can add and visualize their own algorithms.
--   ☕ **Java-based Algorithm Implementations:**
-    -   Migrating algorithms to Java for backend functionality and enhanced performance.
--   🚀 **Deployment:**
-    -   Final deployment in progress. Stay tuned!
+Version Control:
+•  Git - Version control system
+•  GitHub - Repository hosting and project management
+
+Development Approach:
+•  Vanilla JavaScript Classes - Object-oriented programming for algorithm implementations
+•  Async/Await - For handling animation timing and delays
+•  Modular Architecture - Separate files for different concerns (algorithms, utilities, UI)
 
 ---
 
@@ -63,12 +72,6 @@
     cd AlgoVista
     ```
 3. **Open the `index.html` file in your browser to start the application.**
-
----
-
-## 📈 Project Status
-
-**Ongoing Project** – Sorting algorithms are fully implemented, while pathfinding algorithms and Java backend integrations are coming soon.
 
 ---
 
