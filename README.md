@@ -7,57 +7,64 @@
 </p>
 
 <p align="center">
-  <a href="https://tarakkatoch.github.io/AlgoVista/"><img src="https://img.shields.io/badge/TRY%20IT%20NOW-Live%20Demo-orange?style=for-the-badge" alt="Live Demo"></a> 
+  <a href="https://tarakkatoch.github.io/AlgoVista/">
+    <img src="https://img.shields.io/badge/TRY%20IT%20NOW-Live%20Demo-orange?style=for-the-badge" alt="Live Demo">
+  </a> 
 </p>
 
-**AlgoVista** is an interactive web application that visualizes various sorting and pathfinding algorithms. Built for learners and enthusiasts, this project helps users understand complex algorithms through intuitive visual representations.
+**AlgoVista** is an interactive web application that visualizes various sorting and pathfinding algorithms. Built for learners and enthusiasts, this project simplifies complex algorithmic concepts through intuitive and engaging animations.
 
 ---
 
 ## ✨ Features
 
--   🔢 **Sorting Algorithms Visualization:**
-    -   🫧 Bubble Sort
-    -   🧩 Merge Sort
-    -   ⚡ Quick Sort
-    -   ✍️ Insertion Sort
-    -   🎯 Selection Sort
--   🔢 **Pathfinding Algorithms Visualization:**
-    -   🧭 Dijkstra’s
-    -   📶 BFS
-    -   🧗‍♂️ DFS
--   🕹️ **Interactive Interface:** Real-time visualization with customizable speed controls and array sizes.
--   🌐 **Cross-platform Compatibility:** Supports modern browsers for a seamless experience.
+- 🔢 **Sorting Algorithms Visualization:**
+  - 🫧 Bubble Sort
+  - 🧩 Merge Sort
+  - ⚡ Quick Sort
+  - ✍️ Insertion Sort
+  - 🎯 Selection Sort
+
+- 🧭 **Pathfinding Algorithms Visualization:**
+  - 🧭 Dijkstra’s Algorithm
+  - 📶 Breadth-First Search (BFS)
+  - 🧗‍♂️ Depth-First Search (DFS)
+
+- 🕹️ **Interactive Interface:**  
+  Real-time visualizations with adjustable speed and array size controls.
+
+- 🌐 **Cross-Platform Compatibility:**  
+  Works smoothly across modern web browsers.
 
 ---
 
 ## 🛠️ Technologies Used
 
-Frontend Technologies:
-•  HTML5 - Structure and markup
-•  CSS3 - Styling and animations
-•  Vanilla JavaScript (ES6+) - Core functionality and algorithm implementations
-•  Canvas API - For drawing and rendering visualizations
+### Frontend:
+- **HTML5** – Structure and markup  
+- **CSS3** – Styling and animations  
+- **Vanilla JavaScript (ES6+)** – Core logic and implementations  
+- **Canvas API** – Drawing and rendering animations  
 
-Libraries & Frameworks:
-•  Bootstrap 4.0.0 - UI components and responsive design
-•  Paper.js 0.12.2 - 2D vector graphics library for pathfinding visualizations
-•  jQuery 3.2.1 - DOM manipulation and event handling
-•  Popper.js 1.12.9 - Tooltip and popover positioning
+### Libraries & Frameworks:
+- **Bootstrap 4.0.0** – Responsive UI components  
+- **Paper.js 0.12.2** – 2D vector graphics for pathfinding visuals  
+- **jQuery 3.2.1** – DOM manipulation and events  
+- **Popper.js 1.12.9** – Tooltip and popover positioning  
 
-External Resources:
-•  Font Awesome 4.7.0 - Icons and UI elements
-•  Google Fonts (Roboto) - Typography
-•  CDN Libraries - All external libraries loaded via CDN
+### External Resources:
+- **Font Awesome 4.7.0** – Icons  
+- **Google Fonts (Roboto)** – Typography  
+- **CDNs** – All external libraries loaded via CDN for performance  
 
-Version Control:
-•  Git - Version control system
-•  GitHub - Repository hosting and project management
+### Version Control & Hosting:
+- **Git** – Version control  
+- **GitHub** – Repository hosting and project management  
 
-Development Approach:
-•  Vanilla JavaScript Classes - Object-oriented programming for algorithm implementations
-•  Async/Await - For handling animation timing and delays
-•  Modular Architecture - Separate files for different concerns (algorithms, utilities, UI)
+### Development Approach:
+- **Modular Architecture** – Code organized into functional components  
+- **JavaScript Classes** – OOP for algorithm implementation  
+- **Async/Await** – Smooth control of animations and delays  
 
 ---
 
@@ -67,15 +74,18 @@ Development Approach:
     ```bash
     git clone https://github.com/TarakKatoch/AlgoVista.git
     ```
+
 2. **Navigate to the project directory:**
     ```bash
     cd AlgoVista
     ```
-3. **Open the `index.html` file in your browser to start the application.**
+
+3. **Run the application:**
+   - Open `index.html` in your preferred browser.
 
 ---
 
 <p align="center">
-  <b>Thank you for your interest in AlgoVista!</b><br/>
+  <b>Thanks for checking out AlgoVista!</b><br/>
   <em>Happy Visualizing! 🚀</em>
 </p>
